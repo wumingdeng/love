@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="10px" height="6px"
+xml:space="preserve">
+<g id="203" transform="matrix(1, 0, 0, 1, 4.55, 2.95)">
+<radialGradient
+id="RadialGradID_2038" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0012207, 0.000167847, -0.000167847, 0.0012207, -0.5, -2.05)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#F15E1F;stop-opacity:0.423529" />
+<stop  offset="1"  style="stop-color:#FFEFEA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2038) " d="M0.35,-2.55Q0.15 -1.75 -0.2 -1.85Q-0.6 -2 -0.6 -2.1L-0.65 -2.45L-0.4 -2.95Q-0.35 -2.5 0.35 -2.55" />
+<radialGradient
+id="RadialGradID_2039" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, 0.00189209, -0.00300598, 0, 0.05, 1.35)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#F15E1F;stop-opacity:0.423529" />
+<stop  offset="1"  style="stop-color:#FFEFEA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2039) " d="M0.1,1.35L3.05 0.55L3.3 0.75Q1.9 3 0 3Q-2.55 3 -2.65 0.8L0.1 1.35" />
+<radialGradient
+id="RadialGradID_2040" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00575256, 0, 0, 0.00538635, 0, -0.05)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#A34721;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#D56F44;stop-opacity:0.431373" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2040) " d="M-4.2,-0.75L-4.1 -0.75L-4 -0.7L-3.9 -0.45L-3.1 0.1L-0.4 0.6Q1.5 0.75 4 -0.7L4 -1.05L4 -1.1L4.1 -1.15L4.15 -1.1L4.2 -1.05L4.2 -0.75L4.2 -0.7L4.4 -0.6L4.6 -0.5L4.6 -0.45L4.5 -0.4L4.05 -0.4Q1.75 0.9 -0.55 0.8Q-2.9 0.7 -4.05 -0.15L-4.5 0.05L-4.55 0Q-4.35 -0.1 -4.25 -0.25L-4.15 -0.35L-4.15 -0.5L-4.2 -0.6L-4.2 -0.7L-4.2 -0.75M4.05,-0.6L4.05 -0.65L4 -0.65L4.05 -0.6" />
+</g>
+</svg>

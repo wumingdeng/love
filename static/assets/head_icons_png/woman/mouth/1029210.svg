@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="7px" height="4px"
+xml:space="preserve">
+<g id="399" transform="matrix(1, 0, 0, 1, -66.8, -45.85)">
+<radialGradient
+id="RadialGradID_3612" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-4.57764e-005, -0.00169373, -0.00350952, 9.15527e-005, 70.1, 48.75)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.0470588"  style="stop-color:#DA6969;stop-opacity:0.513725" />
+<stop  offset="1"  style="stop-color:#FFEFEA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_3612) " d="M70.05,47.75L71.65 48Q72.25 48.3 72.3 48.7Q72.3 49.15 71.7 49.5L70.1 49.85L68.6 49.6Q67.9 49.25 67.9 48.8Q67.85 48.35 68.55 48.05L70.05 47.75" />
+<radialGradient
+id="RadialGradID_3613" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00384521, -9.15527e-005, 0.000106812, 0.00289917, 70.25, 47.2)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#F97781;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FFECD9;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_3613) " d="M67.95,46.25Q68.3 46 69.3 45.85L70.2 46L70.55 45.9L71.1 45.85Q73 46.25 72.9 47.4Q72.85 48.45 70.1 48.45Q67.3 48.3 67.35 47.4Q67.45 46.55 67.95 46.25" />
+<path style="fill:#C52929;fill-opacity:1" d="M69.95,46.75L71.85 46.9L72.9 46.9L73.05 46.7L73.45 46.6L73.45 46.8L73 47.05L71.8 47.15L68.9 47.1L67.75 47.05L67.15 46.95L66.8 46.55L67 46.5L67.2 46.6L67.45 46.8L68.5 47L69.95 46.75" />
+<path style="fill:#FFFFFF;fill-opacity:1" d="M71.6,46.35L71.45 46.45L71.35 46.35L71.5 46.25L71.6 46.35M71.4,48.1L71.5 48.2L71.4 48.25L71.3 48.15Q71.4 48.05 71.4 48.1M71.6,47.55L71.75 47.75L71.55 47.9Q71.35 47.85 71.45 47.7Q71.35 47.5 71.6 47.55" />
+<path style="fill:#FEF1F0;fill-opacity:1" d="M69.75,46L69.7 46.05L69.6 46L69.7 45.95L69.75 46M70,46.25L69.9 46.15Q69.85 46 70 46.1L70.05 46.15L70 46.25M70.7,47.55L70.8 47.7L70.7 47.75L70.6 47.7L70.7 47.55" />
+<path style="fill:#FEE3E1;fill-opacity:1" d="M68.85,46.1L68.35 46.45L67.95 46.65L67.8 46.6Q67.95 46.3 68.5 46.2L68.85 46.1M68.5,46.7L68.4 46.8L68.25 46.7L68.4 46.6L68.5 46.7M69.75,47.9L69.45 47.65L70.1 47.7Q71.1 47.5 71.1 47.7Q71.05 47.9 70.6 47.95L69.75 47.9M71.15,46.5L71.25 46.6L71.1 46.65L71 46.6L71.15 46.5" />
+</g>
+</svg>

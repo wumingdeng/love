@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="7px" height="3px"
+xml:space="preserve">
+<g id="301" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#CA6257;fill-opacity:1" d="M2.15,0.75L3.65 0.7L3.95 0.7L5.55 0.75L5.85 0.6L6.05 0.45L6.2 0.25L6.25 0.15L6.3 0.25L6.3 0.45L5.6 1L5.35 1.05L4.4 1L4.3 0.95L3.95 0.95L3.85 1L2.8 1.05L1.95 0.9L1.9 0.9L0.7 0.9L0.25 0.65Q-0.05 0.45 0.05 0.15Q0.1 -0.15 0.25 0.2L0.35 0.3Q0.8 1.1 2.15 0.75" />
+<radialGradient
+id="RadialGradID_2899" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-3.05176e-005, -0.00172424, 0.00309753, -6.10352e-005, 3.3, 1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FF7591;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FFD9E8;stop-opacity:0.501961" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2899) " d="M0.7,0.9L1.9 0.9L1.95 0.9L2.8 1.05L3.85 1L3.95 0.95L4.3 0.95L4.4 1L5.35 1.05L5.6 1L5.45 1.45L4.7 2.05L3.15 2.35Q1.65 2.35 1 1.25L0.7 0.9" />
+<radialGradient
+id="RadialGradID_2900" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.10352e-005, -0.0015564, 0.00338745, 0.000137329, 3.1, 0.8)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FF7591;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FFD9E8;stop-opacity:0.501961" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2900) " d="M5.85,0.6L5.55 0.75L3.95 0.7L3.65 0.7L2.15 0.75Q0.8 1.1 0.35 0.3L1.75 0.35L3.05 0.15L3.55 0.1L4.55 0.25L5.4 0.55L5.85 0.6" />
+<path style="fill:#FFFFFF;fill-opacity:1" d="M3.85,1.35L5.15 1.1Q4.4 1.9 3.9 1.65Q3.35 1.45 3.85 1.35" />
+<path style="fill:#FFFFFF;fill-opacity:1" d="M3.4,1.5L3.2 1.65L2.95 1.45L3.2 1.25L3.4 1.5" />
+<path style="fill:#FFFFFF;fill-opacity:1" d="M4.25,1.25L4.3 1.2L4.35 1.2L4.25 1.2L4.25 1.25M4.35,1.15L4.4 0.9L4.4 1.15L4.5 1.25L4.4 1.2L4.45 1.3L4.45 1.25L4.5 1.25L5.25 0.75L4.6 1.35L4.65 1.45L4.9 1.55L4.6 1.5L4.55 1.6L4.55 1.65L4.6 1.5L4.6 1.65L5 2.35L4.45 1.75L4.35 1.7L4.3 1.7L4.25 2L4.3 1.75L4.15 1.7L4.3 1.75L4.3 1.7L4.2 1.65L4.15 1.7L3.4 2.15L4.05 1.6L4 1.45L3.8 1.4L4.05 1.4L4.1 1.3L4.1 1.4L4.15 1.35L4.1 1.4L4.15 1.3L4.1 1.3L3.65 0.55L4.25 1.2L4.35 1.2L4.25 1.2L4.35 1.15M4.65,1.45L4.6 1.35L4.65 1.45M4.6,1.4L4.6 1.45L4.6 1.35L4.6 1.4M4.55,1.4L4.55 1.45L4.55 1.4M4.55,1.6L4.55 1.5L4.55 1.6M4.05,1.45L4.05 1.6L4.05 1.55L4.05 1.5L4.1 1.55L4.05 1.45M4.2,1.65L4.25 1.65L4.2 1.65" />
+<path style="fill:#FFFFFF;fill-opacity:1" d="M3.8,1.35L3.85 1.35L3.8 1.35M4.35,1L3.9 1.4L3.9 1.5L4.1 1.55L3.9 1.5L3.9 1.6L3.9 1.5L3.9 1.6L4.2 2.1L3.8 1.7L3.8 1.65L3.75 1.7L3.65 1.9L3.7 1.7L3.6 1.7L3.7 1.7L3.65 1.65L3.6 1.65L3.6 1.7L3.1 1.95L3.55 1.55L3.55 1.45L3.55 1.55L3.55 1.45L3.55 1.5L3.5 1.45L3.35 1.45L3.5 1.45L3.55 1.35L3.55 1.45L3.6 1.4L3.55 1.4L3.55 1.45L3.55 1.35L3.25 0.85L3.7 1.35L3.75 1.35L3.7 1.35L3.75 1.35L3.7 1.35L3.75 1.3L3.75 1.15L3.8 1.3L3.85 1.35L4.35 1M3.85,1.4L3.85 1.45L3.9 1.5L3.85 1.4L3.9 1.5L3.9 1.4L3.85 1.4M3.7,1.65L3.65 1.65L3.7 1.65M3.9,1.6L3.9 1.5L3.9 1.6" />
+</g>
+</svg>

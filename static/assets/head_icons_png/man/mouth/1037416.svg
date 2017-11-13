@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="9px" height="6px"
+xml:space="preserve">
+<g id="242" transform="matrix(1, 0, 0, 1, 4.3, 2.55)">
+<radialGradient
+id="RadialGradID_2341" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000610352, -0.000747681, -0.00141907, -0.000549316, 3.35, -0.35)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#D9521C;stop-opacity:0.552941" />
+<stop  offset="1"  style="stop-color:#FFEFEA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2341) " d="M3,-0.9L3.7 -0.8L4.25 -0.4L4.25 0.05L3.7 0.25L2.9 0.15L2.45 -0.2Q2.3 -0.5 2.45 -0.7L3 -0.9" />
+<radialGradient
+id="RadialGradID_2342" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.000152588, -0.00215149, -0.00398254, 0.000137329, -0.3, 1.2)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.172549"  style="stop-color:#E37653;stop-opacity:0.662745" />
+<stop  offset="1"  style="stop-color:#FFEFEA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2342) " d="M-2.65,1.3Q-2.7 0.7 -2 0.3Q-1.3 -0.15 -0.25 -0.15L1.6 0.2Q2.3 0.55 2.35 1.1Q2.35 1.6 1.7 2.05L-0.1 2.55L-1.85 2.2Q-2.65 1.8 -2.65 1.3" />
+<radialGradient
+id="RadialGradID_2343" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00585938, -0.000274658, 0.000305176, 0.00390625, -0.45, 1.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="3" fy="0" >
+<stop  offset="0"  style="stop-color:#E37653;stop-opacity:0.662745" />
+<stop  offset="1"  style="stop-color:#FFEFEA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2343) " d="M-0.85,1L0.8 0.95L1.1 0.95L1.65 0.85L2.2 1.8L2.35 2.25Q1.5 1.7 0.75 1.6L-0.7 1.6L-1.55 1.8L-2.6 2.3L-2.8 2.45Q-2.65 1.65 -2.25 1.2L-1.8 0.7L-0.85 1" />
+<radialGradient
+id="RadialGradID_2344" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.000610352, -0.000747681, 0.00141907, -0.000549316, -3.3, -0.35)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#D9521C;stop-opacity:0.552941" />
+<stop  offset="1"  style="stop-color:#FFEFEA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2344) " d="M-2.95,-0.9L-3.65 -0.8L-4.2 -0.4L-4.2 0.05L-3.65 0.25L-2.85 0.15L-2.4 -0.2Q-2.25 -0.5 -2.4 -0.7L-2.95 -0.9" />
+<radialGradient
+id="RadialGradID_2345" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00105286, -0.000167847, 0.000350952, 0.0020752, -0.2, -1.85)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="210534" fy="0" >
+<stop  offset="0.290196"  style="stop-color:#E67B4B;stop-opacity:0.45098" />
+<stop  offset="1"  style="stop-color:#FFD5C2;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2345) " d="M-0.15,-2.5L0.25 -2.55L0.25 -1.1L-0.1 -0.95L-0.3 -1L-0.25 -2.5L-0.15 -2.5" />
+<radialGradient
+id="RadialGradID_2346" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00476074, 0, 0, 0.00450134, -0.6, -0.25)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#F28360;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FFB68C;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2346) " d="M0.05,-0.15L-1.15 -0.3L-2.1 -0.2L-2.9 -0.3Q-2.6 -0.35 -2.2 -0.5L-1.6 -0.75L-1.05 -0.95L-0.55 -0.95L-0.25 -0.8L0 -0.65L0.1 -0.7L0.1 -0.15L0.05 -0.15" />
+<radialGradient
+id="RadialGradID_2347" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00534058, 0, 0, 0.0050354, 0.65, -0.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.490196"  style="stop-color:#80493C;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#80493C;stop-opacity:0.501961" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2347) " d="M0.05,0.05L-0.85 -0.05L-1.65 0L-2.5 -0.05L-2.95 -0.15L-3.05 -0.15L-3.55 -0.15L-3.6 -0.15L-3.6 -0.3L-3.55 -0.35L-3.35 -0.4L-2.95 -0.3L-2.9 -0.3L-2.1 -0.2L-1.15 -0.3L0.05 -0.15L0.1 -0.15L0.1 0.05L0.05 0.05" />
+<radialGradient
+id="RadialGradID_2348" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00502014, 0, 0, 0.00245667, 0.05, -0.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.12549"  style="stop-color:#F08862;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FCB69A;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2348) " d="M0.1,0.05L0.1 1.05L-1.05 1L-2 0.7L-3.05 -0.15L-2.95 -0.15L-2.5 -0.05L-1.65 0L-0.85 -0.05L0.05 0.05L0.1 0.05" />
+<radialGradient
+id="RadialGradID_2349" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00502014, 0, 0, 0.00245667, -0.15, -0.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.12549"  style="stop-color:#F08862;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FCB69A;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2349) " d="M1.9,0.7L1 1L-0.15 1.05L-0.15 0.05L-0.1 0.05L0.8 -0.05L1.55 0L2.45 -0.05L2.85 -0.15L3 -0.15L1.9 0.7" />
+<radialGradient
+id="RadialGradID_2350" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00534058, 0, 0, 0.0050354, -0.75, -0.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.490196"  style="stop-color:#80493C;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#80493C;stop-opacity:0.501961" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2350) " d="M-0.1,-0.15L1.05 -0.3L2.05 -0.2L2.85 -0.3L3.25 -0.4L3.5 -0.3L3.5 -0.15L3 -0.15L2.85 -0.15L2.45 -0.05L1.55 0L0.8 -0.05L-0.1 0.05L-0.15 0.05L-0.15 -0.15L-0.1 -0.15" />
+<radialGradient
+id="RadialGradID_2351" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00476074, 0, 0, 0.00450134, 0.5, -0.25)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#F28360;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FFB68C;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2351) " d="M2.85,-0.3L2.05 -0.2L1.05 -0.3L-0.1 -0.15L-0.15 -0.15L-0.15 -0.7L-0.1 -0.65L0.15 -0.8L0.5 -0.95L1 -0.95L1.5 -0.75Q1.75 -0.65 2.15 -0.5L2.85 -0.3" />
+<radialGradient
+id="RadialGradID_2352" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00408936, 0.00318909, -0.00151062, 0.00196838, -1.05, -0.4)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#B36049;stop-opacity:0.631373" />
+<stop  offset="1"  style="stop-color:#F38887;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2352) " d="M-0.55,-0.95L-0.25 -0.8L-0.1 -0.7L0 -0.65L0.75 -0.95L1.55 -0.65Q2.1 -0.4 2.95 -0.3L2.8 -0.25L1.9 -0.2L1.1 -0.35L0.7 -0.3L0 -0.15L-0.1 -0.2L-0.1 -0.15L-1.1 -0.3L-2 -0.2L-2.75 -0.3L-2.1 -0.5Q-1.75 -0.65 -1.5 -0.75L-1 -0.95L-0.55 -0.95" />
+<linearGradient
+id="LinearGradID_2353" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000808716, -0.000213623, 7.62939e-005, 0.000274658, 1, -0.5)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.352941" />
+<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2353) " d="M0.25,-0.35L0 -0.5L0.65 -0.75L1.45 -0.5L1.4 -0.5L0.75 -0.45L0.65 -0.45L0.25 -0.35" />
+<linearGradient
+id="LinearGradID_2354" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00532532, 0.00143433, -0.00012207, -0.000457764, 1.35, 0.65)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0.0196078" style="stop-color:#FFFFFF;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_2354) " d="M-1.25,0.6L1.05 0.2L2.45 0.1Q2.05 0.5 1.2 0.75L0.05 0.85L-1.25 0.6" />
+<radialGradient
+id="RadialGradID_2355" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00604248, 0, 0, 0.00242615, -0.05, -0.25)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.396078"  style="stop-color:#B35035;stop-opacity:0.631373" />
+<stop  offset="1"  style="stop-color:#F38887;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2355) " d="M0.35,-0.05L0.45 -0.1L0.35 0.75L0.35 0.6L0.35 -0.05M0.7,0L0.55 1.15L0.55 0.75L0.65 0.3L0.7 0M0.05,-0.05L0.1 0.2L0.1 0.95L0.05 1L0 -0.05L0 -0.15L0 -0.1L0.05 -0.05M-0.55,0L-0.45 -0.2L-0.25 0.8L-0.5 0.1L-0.7 1.1L-0.65 0.65L-0.55 0M-1,0.6L-0.85 -0.15L-0.95 1.1L-1 0.65L-1 0.6M-1.1,-0.25L-1.45 0.85L-1.45 0.8L-1.45 0.75L-1.15 -0.25L-1.15 -0.3L-1.1 -0.3L-1.1 -0.25M-0.85,1.1L-0.9 1.15L-0.85 1.1M-1.45,-0.2L-1.7 0.85L-1.45 -0.2M0.9,-0.15L0.95 -0.15L0.95 0.7L0.9 0.7L0.9 0.2L0.9 -0.15M1.45,0.55L1.25 -0.2L1.25 -0.3L1.3 -0.25L1.4 -0.15L1.5 0.65L1.45 0.55" />
+</g>
+</svg>

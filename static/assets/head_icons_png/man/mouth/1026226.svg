@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="8px" height="6px"
+xml:space="preserve">
+<g id="205" transform="matrix(1, 0, 0, 1, -66.45, -38.55)">
+<radialGradient
+id="RadialGradID_2044" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0012207, 0.000167847, -0.000167847, 0.0012207, 69.95, 39.45)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#F15E1F;stop-opacity:0.423529" />
+<stop  offset="1"  style="stop-color:#FFEFEA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2044) " d="M70.25,39.65L69.85 39.4L69.8 39.05L70.05 38.55Q70.1 39 70.8 38.95Q70.6 39.75 70.25 39.65" />
+<radialGradient
+id="RadialGradID_2045" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, 0.00219727, -0.00492859, 0, 70.1, 42.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#F15E1F;stop-opacity:0.423529" />
+<stop  offset="1"  style="stop-color:#FFEFEA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2045) " d="M69.95,41.95L71.3 41.7Q73.5 42.05 73.4 42.9Q73.25 43.7 70.5 43.7Q68.25 43.7 67.1 42.75Q68.3 41.6 69.05 41.7L69.95 41.95" />
+<radialGradient
+id="RadialGradID_2046" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00469971, 0, 0, 0.00393677, 70.15, 41.5)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#A34721;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#D56F44;stop-opacity:0.431373" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_2046) " d="M71.45,40.8L73.8 42.1L73.85 42.2L73.8 42.25L73.75 42.3L73.65 42.3Q71.65 41.05 71.45 41.05L70.85 41.25L70.25 41.55L69.75 41.25L69.2 41.05Q68.85 41.05 68 41.5Q67.05 41.95 66.65 42.35L66.55 42.35L66.45 42.35L66.45 42.25L66.45 42.2Q66.9 41.8 67.85 41.3L69.15 40.85Q69.55 40.8 69.95 41.1L70.25 41.35L70.7 41.1Q71.15 40.8 71.45 40.8" />
+</g>
+</svg>
