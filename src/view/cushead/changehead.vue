@@ -169,7 +169,11 @@ export default {
                 var s_src = _taget.src.substr(_taget.src.lastIndexOf('/'), _taget.src.indexOf('?'))
                 s_src = s_src.replace('jpg', 'svg')
                 let img = document.createElement('img')
-                img.src='static/assets/head_icons_png/'+(this.sex==0?'man/':'woman/')+idStr+s_src
+                if(this.partIdx == 1){
+                    img.src='static/assets/head_icons_png/'+idStr+s_src
+                }else{
+                    img.src='static/assets/head_icons_png/'+(this.sex==0?'man/':'woman/')+idStr+s_src
+                }
                 img.style=styleStr
                 img.id = idStr
                 document.getElementById('J').appendChild(img)
@@ -206,6 +210,8 @@ export default {
                 }
                 if(this.partIdx == 4){ // 脸型局部涉及到肤色，需要特殊处理
                     mm.src = 'static/assets/head_icons_png/'+(this.sex==0?'man/':'woman/') +idStr+"/"+this.color+s_src
+                }else if(this.partIdx == 1){ // 眼镜资源男女公用
+                     mm.src = 'static/assets/head_icons_png/'+idStr+s_src
                 }else{
                     mm.src = 'static/assets/head_icons_png/'+(this.sex==0?'man/':'woman/')+idStr+s_src
                 }
@@ -350,6 +356,8 @@ export default {
         getSwipeUrl(url) {
             if(this.partIdx == 4){
                 return "static/assets/head_icons/"+(this.sex==0?'man':'woman') + "/lianxing/"+this.color+"/"+url + Global.verStr
+            }else if(this.partIdx == 1){
+                return "static/assets/head_icons/yanjing/"+url + Global.verStr
             }else{
                 return "static/assets/head_icons/"+(this.sex==0?'man':'woman') + url + Global.verStr
             }
