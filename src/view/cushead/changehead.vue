@@ -357,7 +357,7 @@ export default {
             if(this.partIdx == 4){
                 return "static/assets/head_icons/"+(this.sex==0?'man':'woman') + "/lianxing/"+this.color+"/"+url + Global.verStr
             }else if(this.partIdx == 1){
-                return "static/assets/head_icons/yanjing/"+url + Global.verStr
+                return "static/assets/head_icons"+url + Global.verStr
             }else{
                 return "static/assets/head_icons/"+(this.sex==0?'man':'woman') + url + Global.verStr
             }
