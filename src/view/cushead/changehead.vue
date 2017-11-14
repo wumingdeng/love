@@ -463,7 +463,7 @@ export default {
             this.imgcfg =  window.Global.imgCfg_w
             console.log(this.imgcfg.bz)
         }
-        this.selPart(2)
+        this.selPart(6)
         this.$nextTick(() => {
             this.onLoadImg()
         })
