@@ -461,7 +461,7 @@ export default {
         }
     },
     mounted() {
-        this.sex = this.$store.state.sex || 1
+        this.sex = this.$store.state.sex || 0
         this.color = this.$store.state.color || 0
         if(this.sex == 0){
             this.imgdata =  window.Global.imgData
